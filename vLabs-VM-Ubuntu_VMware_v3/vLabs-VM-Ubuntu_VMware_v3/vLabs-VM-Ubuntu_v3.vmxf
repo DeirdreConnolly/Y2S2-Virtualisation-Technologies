@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<VMId type="string">52 8b 49 ec 5d 91 74 b7-f0 d7 75 7c 1b 9d b5 d2</VMId>
+<vmxPathName type="string">vLabs-VM-Ubuntu_v3.vmx</vmxPathName></VM></Foundry>
